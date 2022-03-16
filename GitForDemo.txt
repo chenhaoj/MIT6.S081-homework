@@ -1,2 +1,0 @@
-初始版本
-创建本地分支master，将修改内容推送到远程分支origin/master，然后将origin/master的内容合并到远程分支origin/main上面
